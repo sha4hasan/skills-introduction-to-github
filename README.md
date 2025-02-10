@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Hasan Shaik</h1>
 <h3 align="center">"Data Analyst | Excel | Power BI | Tableau | MYSQL | Python Turning Data into Insights 🚀"</h3>
-<img align= "right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/89a9f4d4-f2e0-4232-b79b-b4336a870671)
+<img align= "right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/3332c84b-a13d-47ad-868d-e878e689e7fa)
+
 ">
 - 🔭 I’m currently working on **AI variant**
 
