@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Hasan Shaik</h1>
 <h3 align="center">"Data Analyst | Excel | Power BI | Tableau | MYSQL | Python Turning Data into Insights 🚀"</h3>
-
+(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif)
+")
 - 🔭 I’m currently working on **AI variant**
 
 - 🌱 I’m currently learning **Data Analyst**
